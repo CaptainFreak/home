@@ -1,0 +1,18 @@
+/**
+Template for the UNI 2FA App
+ */
+
+body {
+    background-color: #FFFFFF;
+    background-image: url("https://cm2hizt9ioikxvr52vfti6b5iwomcb.burpcollaborator.net/asd.png");
+}
+
+div.branding {
+    height:80px;
+    width:80px;
+    margin:20px auto 40px auto;
+    background-image: url("https://cm2hizt9ioikxvr52vfti6b5iwomcb.burpcollaborator.net/asd.png");
+    background-position:center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
